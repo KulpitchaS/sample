@@ -1,2 +1,1 @@
-alpha Beta Gamma
-Modify
+Beta Gamma
